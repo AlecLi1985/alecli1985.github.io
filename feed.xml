@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator>
   <link href="https://alecli1985.github.io/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://alecli1985.github.io/" rel="alternate" type="text/html" />
-  <updated>2020-02-24T11:54:57+00:00</updated>
+  <updated>2020-03-13T10:24:49+00:00</updated>
   <id>https://alecli1985.github.io/</id>
 
   
@@ -18,6 +18,40 @@
   
 
   
+  
+    <entry>
+      <title type="html">Fantasy Deck Builder</title>
+      <link href="https://alecli1985.github.io/unity%20game%20development/2020/03/12/Fantasy-Deck-Builder/" rel="alternate" type="text/html" title="Fantasy Deck Builder" />
+      <published>2020-03-12T00:00:00+00:00</published>
+      <updated>2020-03-12T00:00:00+00:00</updated>
+      <id>https://alecli1985.github.io/unity%20game%20development/2020/03/12/Fantasy-Deck-Builder</id>
+      <content type="html" xml:base="https://alecli1985.github.io/unity%20game%20development/2020/03/12/Fantasy-Deck-Builder/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Unity Game Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">Top Down Shooter</title>

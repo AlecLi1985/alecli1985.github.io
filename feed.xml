@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator>
   <link href="https://alecli1985.github.io/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://alecli1985.github.io/" rel="alternate" type="text/html" />
-  <updated>2020-03-13T10:24:49+00:00</updated>
+  <updated>2020-04-01T22:42:50+01:00</updated>
   <id>https://alecli1985.github.io/</id>
 
   
@@ -18,6 +18,74 @@
   
 
   
+  
+    <entry>
+      <title type="html">Random Stuff C++</title>
+      <link href="https://alecli1985.github.io/c++/2020/04/01/Random-stuff-c++/" rel="alternate" type="text/html" title="Random Stuff C++" />
+      <published>2020-04-01T00:00:00+01:00</published>
+      <updated>2020-04-01T00:00:00+01:00</updated>
+      <id>https://alecli1985.github.io/c++/2020/04/01/Random-stuff-c++</id>
+      <content type="html" xml:base="https://alecli1985.github.io/c++/2020/04/01/Random-stuff-c++/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="C++" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Random Stuff C++ Part2</title>
+      <link href="https://alecli1985.github.io/c++/2020/04/01/Random-stuff-c++-part2/" rel="alternate" type="text/html" title="Random Stuff C++ Part2" />
+      <published>2020-04-01T00:00:00+01:00</published>
+      <updated>2020-04-01T00:00:00+01:00</updated>
+      <id>https://alecli1985.github.io/c++/2020/04/01/Random-stuff-c++-part2</id>
+      <content type="html" xml:base="https://alecli1985.github.io/c++/2020/04/01/Random-stuff-c++-part2/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="C++" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">Fantasy Deck Builder</title>
